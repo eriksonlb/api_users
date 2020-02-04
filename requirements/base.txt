@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+itsdangerous
+Jinja2
+MarkupSafe
+python-dotenv
+pytz
+six
+Werkzeug
